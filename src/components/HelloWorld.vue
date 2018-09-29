@@ -10,9 +10,10 @@
     <p class="uk-article-meta">Written by <a href="#">Aravind Voggu</a> on 29 September 2018.</p>
 
     <p class="uk-text-lead">This is a demo of using UiKit with VueJS, built using Vue CLI 3.0</p>
-
+    
     <p>The tutorial is available on my website - https://aravindvoggu.in. All the content below is just for example and I've not added any functionality.</p>
 
+    <href src="https://aravindvoggu.in/uikit-with-vuejs-vue-cli-3-db811e43c46b">Link to the tutorial.</href>
     <div class="uk-grid-small uk-child-width-auto" uk-grid>
         <div>
             <a class="uk-button uk-button-text" href="#">Read more</a>
